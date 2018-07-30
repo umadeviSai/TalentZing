@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="56335" started-at="2018-07-30T05:39:24Z" finished-at="2018-07-30T05:40:21Z">
+  <suite name="Suite" duration-ms="60600" started-at="2018-07-30T06:57:58Z" finished-at="2018-07-30T06:58:58Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="56335" started-at="2018-07-30T05:39:24Z" finished-at="2018-07-30T05:40:21Z">
+    <test name="Test" duration-ms="60600" started-at="2018-07-30T06:57:58Z" finished-at="2018-07-30T06:58:58Z">
       <class name="com.TestCases.TC_01_LaunchApplication">
-        <test-method status="PASS" signature="LaunchApplication_Validate()[pri:0, instance:com.TestCases.TC_01_LaunchApplication@6a41eaa2]" name="LaunchApplication_Validate" duration-ms="53717" started-at="2018-07-30T05:39:26Z" finished-at="2018-07-30T05:40:20Z">
+        <test-method status="PASS" signature="LaunchApplication_Validate()[pri:0, instance:com.TestCases.TC_01_LaunchApplication@6a41eaa2]" name="LaunchApplication_Validate" duration-ms="57953" started-at="2018-07-30T06:57:59Z" finished-at="2018-07-30T06:58:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LaunchApplication_Validate -->
